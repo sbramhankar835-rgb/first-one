@@ -471,14 +471,14 @@
     },
 
     {
-      question: "How many days are there in a week?",
+      question: "6*6?",
       options: [
-        "5",
-        "6",
-        "7",
-        "8"
+        "36",
+        "35",
+        "1",
+        "5"
       ],
-      answer: 2
+      answer: 1
     },
 
     {
