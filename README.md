@@ -515,14 +515,14 @@
     },
 
     {
-      question: "How many continents are there?",
+      question: "can a match box?",
       options: [
-        "5",
-        "6",
-        "7",
+        "no bate teen can",
+        "no bete teen an",
+        "no bate can",
         "8"
       ],
-      answer: 2
+      answer: 1
     },
 
     {
